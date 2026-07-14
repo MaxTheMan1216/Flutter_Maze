@@ -14,7 +14,7 @@ cleared.
 
 ## Deployed application
 
-Play it here: **https://MaxTheMan-1216.github.io/Flutter_Maze/**
+Play it here: **https://MaxTheMan1216.github.io/Flutter_Maze/**
 
 ## How to play
 
